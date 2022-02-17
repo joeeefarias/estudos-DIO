@@ -1,2 +1,2 @@
 # estudos-DIO
-Repositório de projetos e exercicio DIO
+Repositório de projetos e exercicios DIO
